@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **antibiotic23/antibiotic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **MERN Stack and AWS**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **Any Projects based on node.js**
-- 🤝 I'm looking for help with **Frontend Developement and AWS **
+- 🤝 I'm looking for help with **Frontend Developement and AWS**
 - 📬 How to reach me [work.sohamp@gmail.com](mailto:work.sohamp@gmail.com)
 
 
